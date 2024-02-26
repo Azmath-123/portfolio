@@ -5,7 +5,7 @@ Welcome to my portfolio! I am Mohammad Azmath Ali, a passionate full-stack devel
 
  Table of Contents
 
-- About Me :
+- About Me : My self 4 year B.Tech student and a full stack trainee and a tech enthusiast
 - Skills : FrontEnd And BackEnd
 - Contact : Email(azmathsoheb@gmail.com), LinkedIn(www.linkedin.com/in/
 azmath-ali12
